@@ -1,0 +1,16 @@
+feat_id,feat_name,model_feat_imp_train,feat_rank_train,feat_description
+1,team1_id,1.379003167,1,ID of team 1
+2,team2_id,1.173438787,2,ID of team 2
+3,toss winner,1.147384882,3,Which team won the toss
+4,toss decision,0.951347172,4,"What was the decision of the toss winner, bat or field?"
+5,lighting,1.238002539,5,What were the ground lighting conditions
+6,series_name,1.752263904,6,What was the name of the series
+7,season,1.746406317,7,What was the game season
+8,ground_id,1.520446658,8,ID of ground
+9,team_count_50runs_last15,1.42888844,9,Ratio of number of 50s by players in team1 to number of 50s by players in team2 in last 15 games
+10,team_winp_last5,1.231647611,10,Ratio of team1 win % to team2 win % in last 5 games
+11,team1only_avg_runs_last15,1.359148383,11,Average runs of team 1 in last 15 matches
+12,team1_winp_team2_last15,1.299436927,12,Ratio of team1 win % to team2 win % in last 15 games
+13,ground_avg_runs_last15,1.316902399,13,Average runs scroed in ground in last 15 games
+14,ratio_batting_average,3.943956614,14,Ratio of average of batting averages of all batsmen of team1 to that of team2 till match_dt
+15,ratio_average_strike_rate,1.872399449,15,Ratio of average of batting strike rates of all batsmen of team1 to that of team2 till match_dt
